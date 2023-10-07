@@ -1,0 +1,70 @@
+{
+  "string_key": "This is a string value.",
+  "number_key": 42,
+  "boolean_key": true,
+  "null_key": null,
+  "array_key": [1, 2, 3, 4, 5],
+  "object_key": {
+    "nested_string_key": "Nested string value",
+    "nested_number_key": 123,
+    "nested_boolean_key": false,
+    "nested_null_key": null
+  },
+  "list_of_objects": [
+    {
+      "name": "Alice",
+      "age": 30,
+      "is_employee": true
+    },
+    {
+      "name": "Bob",
+      "age": 35,
+      "is_employee": false
+    }
+  ],
+  "nested_objects": {
+    "object1": {
+      "property1": "Value 1",
+      "property2": 123
+    },
+    "object2": {
+      "property1": "Value 2",
+      "property2": 456
+    }
+  },
+  "nested_arrays": {
+    "array1": [1, 2, 3],
+    "array2": ["apple", "orange", "banana"]
+  },
+  "mixed_data_types": {
+    "string_value": "Hello, World!",
+    "number_value": 3.14,
+    "boolean_value": true,
+    "null_value": null,
+    "array_value": [1, 2, 3],
+    "object_value": {
+      "key": "value"
+    }
+  },
+  "complex_structure": {
+    "key1": {
+      "nested_key1": "Nested value 1",
+      "nested_key2": [1, 2, 3]
+    },
+    "key2": [
+      {
+        "nested_key": "Nested value 2"
+      },
+      {
+        "nested_key": "Nested value 3"
+      }
+    ]
+  },
+  "another_array": ["dog", "cat", "bird"],
+  "boolean_key2": false,
+  "string_key2": "Another string value",
+  "number_key2": 987,
+  "null_key2": null,
+  "final_string_key": "This is the last string value."
+}
+
